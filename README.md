@@ -1,7 +1,7 @@
 # 🏏 IPL Analysis (2008–2025) | Advanced Power BI Dashboard
 
 <p align="center">
-  <img src="Images/banner.png" alt="IPL Analysis Banner" width="100%">
+  <img src="banner.png" alt="IPL Analysis Banner" width="100%">
 </p>
 
 <p align="center">
